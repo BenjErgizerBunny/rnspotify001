@@ -9,7 +9,7 @@ Updates:
 
 * Documentation for the workshop, including setup of your local development environment, is located in a separate repo. You may visit this [link]( https://github.com/university-of-toronto-fsf/rnspotify-docs.git ) in order to get started setting up your local development environment.
 
-* The work files are published [here](https://github.com/university-of-toronto-fsf/rnc-spotify), which participants will *fork* into their own VCS accounts during the presentation. This repository contains the minimal files and branches for review prior to the workshop. You *do not need to complete the workfiles found in this repo prior to the workshop*. The repo is currently provided only for context. (Plus it's not really useful without the theory)
+* The work files are published [here](https://github.com/university-of-toronto-fsf/rnc-spotify), which participants will *fork* into their own VCS accounts during the presentation. This repository contains the minimal files and branches for review prior to the workshop. You *do not need to complete the work files found in this repo prior to the workshop*. The repo is currently provided only for context. (Plus it's not really useful without the theory)
 
 Never forked a repository before? Checkout this [link](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) to learn how to fork a repo.
 
